@@ -1,10 +1,10 @@
-- Ruby Koans
+# Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common
 functions and libraries. We also teach you culture by basing the koans on tests. Testing is not just something we pay lip service to, but something we
 live. Testing is essential in your quest to learn and do great things in Ruby.
 
-- Describing my experience
+# Describing my experience
 
 During my experience with Ruby Koans, I've encountered various challenges that have significantly enhanced my understanding of Ruby. One of the notable challenges was the triangle exercise, where I had to refactor a series of if statements into a more concise and elegant solution. This exercise not only taught me about the power of Ruby's syntax but also highlighted the importance of writing clean and maintainable code.
 
